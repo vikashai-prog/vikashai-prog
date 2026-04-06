@@ -1,4 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Vikash Kumar Yadav
+
+🎓 Final Year B.Tech CSE (AI & ML)  
+💻 Python Developer | AI/ML Enthusiast  
+🚀 Building Real-world Projects  
+
+## 🔧 Skills
+- Python
+- Machine Learning
+- HTML, CSS, JavaScript
+- Flask
+
+## 📌 Projects
+- Student Management System (AI Chatbot)
+- Crime Rate Prediction System
+
+## 📫 Contact Me
+- Email: vikashkumary000@gmail.com
 
 <!--
 **vikashai-prog/vikashai-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
