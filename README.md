@@ -2,7 +2,8 @@
 
 🎓 Final Year B.Tech CSE (AI & ML)  
 💻 Python Developer | AI/ML Enthusiast  
-🚀 Building Real-world Projects  
+🚀 Building Real-world Projects
+💼 Open to Work
 
 ## 🔧 Skills
 - Python
@@ -11,8 +12,8 @@
 - Flask
 
 ## 📌 Projects
-- Student Management System (AI Chatbot)
-- Crime Rate Prediction System
+- Student Management System (AI Chatbot using Flask)
+Crime Rate Prediction System (ML + Google Maps Integration)
 
 ## 📫 Contact Me
 - Email: vikashkumary000@gmail.com
