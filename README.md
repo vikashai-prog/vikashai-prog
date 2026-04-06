@@ -13,7 +13,7 @@
 
 ## 📌 Projects
 - Student Management System (AI Chatbot using Flask)
-Crime Rate Prediction System (ML + Google Maps Integration)
+-  Crime Rate Prediction System (ML + Google Maps Integration)
 
 ## 📫 Contact Me
 - Email: vikashkumary000@gmail.com
